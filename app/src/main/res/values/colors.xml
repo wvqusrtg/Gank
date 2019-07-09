@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--字体主色-->
+    <color name="dark_default_text_color">#FF393939</color>
+    <color name="dark_second_text_color">#99393939</color>
+    <color name="dark_third_text_color">#66393939</color>
+
+    <!-- 分割线颜色 -->
+    <color name="dividerColor">#1A393939</color>
+</resources>
